@@ -8,11 +8,11 @@
 
 | Day | Fast | Movement |
 |---|---|---|
-| Mon Oct 26 | 16:8 | walk |
+| Mon Oct 26 | 16:8 | 💪 strength #1 + walk |
 | Tue Oct 27 | 18:6 | 🏃 walk-run (3 min run / 2–3 min walk, 30–40 min) |
-| Wed Oct 28 | 16:8 | walk |
-| Thu Oct 29 | 24h dinner-to-dinner | walk |
-| Fri Oct 30 | 16:8 | walk |
+| Wed Oct 28 | 16:8 | walk (30+ min) |
+| Thu Oct 29 | 24h dinner-to-dinner | walk (30+ min, easy) |
+| Fri Oct 30 | 16:8 | 💪 strength #2 |
 | Sat Oct 31 | flexible | 🏃 walk-run + ⚖️ **weigh-in (first weekly number)** |
 | Sun Nov 1 | 18:6 | 🚶 longer walk |
 
@@ -25,15 +25,15 @@ Week 1 sits in the flat phase — judge it on streaks, not the scale.
 ## ⚖️ Weight journey
 
 ```
-220 ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━○ 150
+221.1 ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━○ 150
     ▲ you are here (week 1)                      🎯 Oct 8, 2027
 ```
 
-Progress to goal: ░░░░░░░░░░░░░░░░░░░░ 0% — 0 of 70 lb lost
+Progress to goal: ░░░░░░░░░░░░░░░░░░░░ 0% — 0 of 71.1 lb lost
 
 | Checkpoint | Weight | When | Status |
 |---|---|---|---|
-| Start | 220 lb | Oct 26, 2026 | ● here |
+| Start | 221.1 lb | Oct 26, 2026 | ● here |
 | — | 210 lb | late Dec 2026 | ○ |
 | — | 200 lb | late Jan 2027 | ○ |
 | — | 190 lb | early Mar 2027 | ○ |
@@ -49,9 +49,9 @@ Fast phase runs to 170, then a slow grind 170 → 150.
 
 ## 🔥 Cumulative streaks
 
-- ⚖️ Weight change: last week — · cumulative —
-- 🍽️ Fast days met: 0 / 0 days elapsed ░░░░░░░░░░
-- 🏃 Move days met: 0 / 0 days elapsed ░░░░░░░░░░
+- ⚖️ Weight change: last week — · cumulative 0.0 lb (baseline day)
+- 🍽️ Fast days met: 1 / 1 days elapsed █░░░░░░░░░
+- 🏃 Move days met: 1 / 1 days elapsed █░░░░░░░░░
 - ⚖️ Saturday weigh-ins done: 0 / 0
 
 Milestones = the daily goals: fast completed, movement completed (weigh-in counts
@@ -63,9 +63,13 @@ on Saturdays). Cumulative = days met out of total days elapsed since Oct 26.
 
 | Week | Dates | Weigh-in (Sat) | Δ week | Δ cumulative | Fast days | Move days | Weigh-in? |
 |---|---|---|---|---|---|---|---|
-| 1 | Oct 26 – Nov 1, 2026 | — | — | — | —/7 | —/7 | — |
+| 1 | Oct 26 – Nov 1, 2026 | — | — | — | 1/7 | 1/7 | — |
+
+## 📝 Day log
+
+- Mon Oct 26 (day 1): excellent walk, full-body light workout (strength #1), 16:8, ~1,400 kcal, 15k steps.
 
 ---
 
-*Baseline weight ~220 lb — to confirm Mon Oct 26, 2026 morning. Updated every
+*Baseline weight 221.1 lb (Mon Oct 26, 2026). Updated every
 Monday at 12:00am from your reported numbers; nothing here is estimated.*
