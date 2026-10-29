@@ -50,8 +50,8 @@ Fast phase runs to 170, then a slow grind 170 → 150.
 ## 🔥 Cumulative streaks
 
 - ⚖️ Weight change: last week — · cumulative 0.0 lb (baseline day)
-- 🍽️ Fast days met: 2 / 2 days elapsed ██░░░░░░░░
-- 🏃 Move days met: 2 / 2 days elapsed ██░░░░░░░░
+- 🍽️ Fast days met: 3 / 3 days elapsed ███░░░░░░░
+- 🏃 Move days met: 3 / 3 days elapsed ███░░░░░░░
 - ⚖️ Saturday weigh-ins done: 0 / 0
 
 Milestones = the daily goals: fast completed, movement completed (weigh-in counts
@@ -63,12 +63,13 @@ on Saturdays). Cumulative = days met out of total days elapsed since Oct 26.
 
 | Week | Dates | Weigh-in (Sat) | Δ week | Δ cumulative | Fast days | Move days | Weigh-in? |
 |---|---|---|---|---|---|---|---|
-| 1 | Oct 26 – Nov 1, 2026 | — | — | — | 2/7 | 2/7 | — |
+| 1 | Oct 26 – Nov 1, 2026 | — | — | — | 3/7 | 3/7 | — |
 
 ## 📝 Day log
 
 - Mon Oct 26 (day 1): excellent walk, full-body light workout (strength #1), 16:8, ~1,400 kcal, 15k steps.
 - Tue Oct 27 (day 2): 18:6, eating window 2–8pm held, ~1,600 kcal, 45-min walk-run, 8,000 steps.
+- Wed Oct 28 (day 3): 16:8, fast broken 2:39pm, dinner close 9pm (24h fast starts), walk 90+ min — all checkboxes hit.
 
 ---
 
