@@ -12,7 +12,7 @@
 | Tue Oct 27 | 18:6 | 🏃 walk-run (3 min run / 2–3 min walk, 30–40 min) |
 | Wed Oct 28 | 16:8 | walk (30+ min) |
 | Thu Oct 29 | 24h dinner-to-dinner | walk (30+ min, easy) |
-| Fri Oct 30 | 16:8 | 💪 strength #2 |
+| Fri Oct 30 | 16:8 | 💪 strength #2 — Strength+ custom, 30 min, full body, bodyweight |
 | Sat Oct 31 | flexible | 🏃 walk-run + ⚖️ **weigh-in (first weekly number)** |
 | Sun Nov 1 | 18:6 | 🚶 longer walk |
 
