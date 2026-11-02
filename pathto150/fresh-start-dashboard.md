@@ -50,8 +50,8 @@ Fast phase runs to 170, then a slow grind 170 → 150.
 ## 🔥 Cumulative streaks
 
 - ⚖️ Weight change: last week -1.5 lb · cumulative -1.5 lb
-- 🍽️ Fast days met: 6 / 6 days elapsed ██████░░░░
-- 🏃 Move days met: 6 / 6 days elapsed ██████░░░░
+- 🍽️ Fast days met: 7 / 7 days elapsed ███████░░░
+- 🏃 Move days met: 7 / 7 days elapsed ███████░░░
 - ⚖️ Saturday weigh-ins done: 1 / 1
 
 Milestones = the daily goals: fast completed, movement completed (weigh-in counts
@@ -63,7 +63,7 @@ on Saturdays). Cumulative = days met out of total days elapsed since Oct 26.
 
 | Week | Dates | Weigh-in (Sat) | Δ week | Δ cumulative | Fast days | Move days | Weigh-in? |
 |---|---|---|---|---|---|---|---|
-| 1 | Oct 26 – Nov 1, 2026 | 219.6 | -1.5 | -1.5 | 6/7 | 6/7 | ✓ |
+| 1 | Oct 26 – Nov 1, 2026 | 219.6 | -1.5 | -1.5 | 7/7 | 7/7 | ✓ |
 
 ## 📝 Day log
 
@@ -73,6 +73,7 @@ on Saturdays). Cumulative = days met out of total days elapsed since Oct 26.
 - Thu Oct 29 (day 4): 24h dinner-to-dinner fast completed (Wed ~9pm → Thu 9pm), broke gently with a 600 kcal meal; walking 60 + 45 = 105 min.
 - Fri Oct 30 (day 5): 16:8 held, eating window 3:30–10:15pm (one-off shift, not the standing window); strength #2 — Strength+ custom 60 min with warm-up + stretching, 400 kcal burned, feels great; minimal walking (legs break — no walk required on strength days); ~1,250 kcal.
 - Sat Oct 31 (day 6): flexible fast, fast began 8pm; walk-run + activity overachieved, 14,300 steps; ~1,500 kcal; weigh-in 219.6 lb (-1.5 from baseline).
+- Sun Nov 1 (day 7): 18:6 held, eating window 2–8pm; longer walk — hike 4 miles, 18,000+ steps; ~1,750 kcal.
 
 ---
 
