@@ -4,21 +4,22 @@
 
 ---
 
-## 📋 Next week plan — Week 1 (Oct 26 – Nov 1, 2026)
+## 📋 Next week plan — Week 2 (Nov 2 – Nov 8, 2026)
 
 | Day | Fast | Movement |
 |---|---|---|
-| Mon Oct 26 | 16:8 | 💪 strength #1 + walk |
-| Tue Oct 27 | 18:6 | 🏃 walk-run (3 min run / 2–3 min walk, 30–40 min) |
-| Wed Oct 28 | 16:8 | walk (30+ min) |
-| Thu Oct 29 | 24h dinner-to-dinner | walk (30+ min, easy) |
-| Fri Oct 30 | 16:8 | 💪 strength #2 — Strength+ custom, 45 min (60 with warm-up + stretching), full body, bodyweight |
-| Sat Oct 31 | flexible | 🏃 walk-run + ⚖️ **weigh-in (first weekly number)** |
-| Sun Nov 1 | 18:6 | 🚶 longer walk |
+| Mon Nov 2 | 16:8 | 💪 strength #1 + walk |
+| Tue Nov 3 | 18:6 | 🏃 walk-run (3 min run / 2–3 min walk, 30–40 min) |
+| Wed Nov 4 | 16:8 | walk (30+ min) |
+| Thu Nov 5 | 24h dinner-to-dinner | walk (30+ min, easy) |
+| Fri Nov 6 | 16:8 | 💪 strength #2 — Strength+ custom, 45 min (60 with warm-up + stretching), full body, bodyweight |
+| Sat Nov 7 | flexible | 🏃 walk-run + ⚖️ **weigh-in** |
+| Sun Nov 8 | 18:6 (Diwali flex) | 🚶 longer walk |
 
 Coffee with milk always allowed. Eating window: 2–10pm on 16:8 days (fast 10pm–2pm).
 Rule: never two missed days in a row.
-Week 1 sits in the flat phase — judge it on streaks, not the scale.
+Week 2 is the final week on the original template — the week-3 step-up to 2× 24h fasts (Tue + Fri) is decided at the Sun Nov 8 week-ahead nudge, only if weeks 1–2 are solid (no two missed days in a row, both Thu 24h fasts completed comfortably, energy steady); otherwise week 3 repeats this template.
+Week 2 still sits in the flat phase — judge it on streaks, not the scale.
 
 ---
 
@@ -64,6 +65,7 @@ on Saturdays). Cumulative = days met out of total days elapsed since Oct 26.
 | Week | Dates | Weigh-in (Sat) | Δ week | Δ cumulative | Fast days | Move days | Weigh-in? |
 |---|---|---|---|---|---|---|---|
 | 1 | Oct 26 – Nov 1, 2026 | 219.6 | -1.5 | -1.5 | 7/7 | 7/7 | ✓ |
+| 2 | Nov 2 – Nov 8, 2026 |  |  |  | /7 | /7 |  |
 
 ## 📝 Day log
 
