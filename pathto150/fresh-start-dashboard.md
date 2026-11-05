@@ -11,14 +11,15 @@
 | Mon Nov 2 | 16:8 | 💪 strength #1 + walk |
 | Tue Nov 3 | 18:6 | 🏃 walk-run (3 min run / 2–3 min walk, 30–40 min) |
 | Wed Nov 4 | 16:8 | walk (30+ min) |
-| Thu Nov 5 | 24h dinner-to-dinner | walk (30+ min, easy) |
-| Fri Nov 6 | 16:8 | 💪 strength #2 — Strength+ custom, 45 min (60 with warm-up + stretching), full body, bodyweight |
+| Thu Nov 5 | 16:8 | 💪 strength #2 — Strength+ custom, 45 min (60 with warm-up + stretching), full body, bodyweight |
+| Fri Nov 6 | 24h dinner-to-dinner | walk (30+ min, easy) |
 | Sat Nov 7 | flexible | 🏃 walk-run + ⚖️ **weigh-in** |
 | Sun Nov 8 | 18:6 (Diwali flex) | 🚶 longer walk |
 
 Coffee with milk always allowed. Eating window: 2–10pm on 16:8 days (fast 10pm–2pm).
 Rule: never two missed days in a row.
-Week 2 is the final week on the original template — the week-3 step-up to 2× 24h fasts (Tue + Fri) is decided at the Sun Nov 8 week-ahead nudge, only if weeks 1–2 are solid (no two missed days in a row, both Thu 24h fasts completed comfortably, energy steady); otherwise week 3 repeats this template.
+Week 2 is the final week on the original template — the week-3 step-up to 2× 24h fasts (Tue + Fri) is decided at the Sun Nov 8 week-ahead nudge, only if weeks 1–2 are solid (no two missed days in a row, both weekly 24h fasts completed comfortably, energy steady); otherwise week 3 repeats this template.
+Week 2 one-off swap (Ram, Nov 4): Thu Nov 5 = 16:8 + strength #2, Fri Nov 6 = 24h dinner-to-dinner (Thu dinner → Fri dinner) + easy walk only. The Friday 24h counts as week 2's 24h for the base check.
 Week 2 still sits in the flat phase — judge it on streaks, not the scale.
 
 ---
