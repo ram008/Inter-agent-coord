@@ -18,7 +18,7 @@
 
 Coffee with milk always allowed. Eating window: 2–10pm on 16:8 days (fast 10pm–2pm).
 Rule: never two missed days in a row.
-Week 2 is the final week on the original template — the week-3 step-up to 2× 24h fasts (Tue + Fri) is decided at the Sun Nov 8 week-ahead nudge, only if weeks 1–2 are solid (no two missed days in a row, both weekly 24h fasts completed comfortably, energy steady); otherwise week 3 repeats this template.
+Week 2 is the final week on the original template — the week-3 step-up to 2× 24h fasts (Tue + Fri) is CONFIRMED (Ram, Nov 6; base solid: 12-for-12, both weekly 24h fasts comfortable). Week 3 (Nov 9–15): Mon walk-run 16:8, Tue 24h + easy walk, Wed walk-run 16:8, Thu strength #1 16:8, Fri 24h + easy walk, Sat strength #2 + weigh-in (flexible), Sun longer walk 18:6.
 Week 2 one-off swap (Ram, Nov 4): Thu Nov 5 = 16:8 + strength #2, Fri Nov 6 = 24h dinner-to-dinner (Thu dinner → Fri dinner) + easy walk only. The Friday 24h counts as week 2's 24h for the base check.
 Week 2 still sits in the flat phase — judge it on streaks, not the scale.
 
