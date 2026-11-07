@@ -28,10 +28,10 @@ Week 2 still sits in the flat phase — judge it on streaks, not the scale.
 
 ```
 221.1 ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━○ 150
-    ▲ you are here (week 1)                      🎯 Oct 8, 2027
+    ▲ you are here (week 2)                      🎯 Oct 8, 2027
 ```
 
-Progress to goal: ██░░░░░░░░░░░░░░░░░░ 2% — 1.5 of 71.1 lb lost
+Progress to goal: ██░░░░░░░░░░░░░░░░░░ 5% — 3.4 of 71.1 lb lost
 
 | Checkpoint | Weight | When | Status |
 |---|---|---|---|
@@ -51,10 +51,10 @@ Fast phase runs to 170, then a slow grind 170 → 150.
 
 ## 🔥 Cumulative streaks
 
-- ⚖️ Weight change: last week -1.5 lb · cumulative -1.5 lb
+- ⚖️ Weight change: last week -1.9 lb · cumulative -3.4 lb
 - 🍽️ Fast days met: 12 / 12 days elapsed ████████████
 - 🏃 Move days met: 12 / 12 days elapsed ████████████
-- ⚖️ Saturday weigh-ins done: 1 / 1
+- ⚖️ Saturday weigh-ins done: 2 / 2
 
 Milestones = the daily goals: fast completed, movement completed (weigh-in counts
 on Saturdays). Cumulative = days met out of total days elapsed since Oct 26.
@@ -66,7 +66,7 @@ on Saturdays). Cumulative = days met out of total days elapsed since Oct 26.
 | Week | Dates | Weigh-in (Sat) | Δ week | Δ cumulative | Fast days | Move days | Weigh-in? |
 |---|---|---|---|---|---|---|---|
 | 1 | Oct 26 – Nov 1, 2026 | 219.6 | -1.5 | -1.5 | 7/7 | 7/7 | ✓ |
-| 2 | Nov 2 – Nov 8, 2026 |  |  |  | 5/7 | 5/7 |  |
+| 2 | Nov 2 – Nov 8, 2026 | 217.7 | -1.9 | -3.4 | 5/7 | 5/7 | ✓ |
 
 ## 📝 Day log
 
