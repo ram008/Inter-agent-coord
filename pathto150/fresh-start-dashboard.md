@@ -83,7 +83,7 @@ on Saturdays). Cumulative = days met out of total days elapsed since Oct 26.
 - Thu Nov 5 (day 11): 16:8 held, eating window 2–10pm; strength #2 + long walk, 12,000 steps; ~1,630 kcal; dinner closed 8:20pm — 24h fast started (Thu 8:20pm → Fri 8:20pm).
 - Fri Nov 6 (day 12): 24h dinner-to-dinner fast completed (Thu 8:20pm → Fri 8:20pm), broke gently with a 500 kcal meal + 120 kcal protein shake (620 kcal total); easy walk turned brisk, 12,000 steps; fast restarted 9:45pm.
 - Sat Nov 7 (day 13): flexible fast held; walk-run + weigh-in 217.7 lb (-1.9 this week, -3.4 total); 12,900 steps; ~1,600 kcal.
-- Sun Nov 8 (day 14): fasted through 2pm, ate 2–3pm, 20h started 3pm (→ Mon 11am); long walk done; Diwali.
+- Sun Nov 8 (day 14): fasted through 2pm, ate 2–3pm (~900 kcal), 20h started 3pm (→ Mon 11am); long walk done, 11,000 steps; fast holding strong; Diwali.
 
 ---
 
