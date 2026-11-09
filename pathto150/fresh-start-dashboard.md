@@ -51,8 +51,8 @@ Fast phase runs to 170, then a slow grind 170 → 150.
 ## 🔥 Cumulative streaks
 
 - ⚖️ Weight change: last week -1.9 lb · cumulative -3.4 lb
-- 🍽️ Fast days met: 14 / 14 days elapsed ██████████████
-- 🏃 Move days met: 14 / 14 days elapsed ██████████████
+- 🍽️ Fast days met: 15 / 15 days elapsed ███████████████
+- 🏃 Move days met: 15 / 15 days elapsed ███████████████
 - ⚖️ Saturday weigh-ins done: 2 / 2
 
 Milestones = the daily goals: fast completed, movement completed (weigh-in counts
@@ -66,7 +66,7 @@ on Saturdays). Cumulative = days met out of total days elapsed since Oct 26.
 |---|---|---|---|---|---|---|---|
 | 1 | Oct 26 – Nov 1, 2026 | 219.6 | -1.5 | -1.5 | 7/7 | 7/7 | ✓ |
 | 2 | Nov 2 – Nov 8, 2026 | 217.7 | -1.9 | -3.4 | 7/7 | 7/7 | ✓ |
-| 3 | Nov 9 – Nov 15, 2026 | | | | | | |
+| 3 | Nov 9 – Nov 15, 2026 | | | | 1/7 | 1/7 | |
 
 ## 📝 Day log
 
@@ -84,6 +84,7 @@ on Saturdays). Cumulative = days met out of total days elapsed since Oct 26.
 - Fri Nov 6 (day 12): 24h dinner-to-dinner fast completed (Thu 8:20pm → Fri 8:20pm), broke gently with a 500 kcal meal + 120 kcal protein shake (620 kcal total); easy walk turned brisk, 12,000 steps; fast restarted 9:45pm.
 - Sat Nov 7 (day 13): flexible fast held; walk-run + weigh-in 217.7 lb (-1.9 this week, -3.4 total); 12,900 steps; ~1,600 kcal.
 - Sun Nov 8 (day 14): fasted through 2pm, ate 2–3pm (~900 kcal), 23h started 3pm (→ Mon 2pm); long walk done, 11,000 steps; fast holding strong, extended to 2pm Mon; Diwali.
+- Mon Nov 9 (day 15): 23h fast completed, broke ~2:15pm, feeling great; walk-run done (fasted, before breaking); sleep a bit rough last night (his note: may be unrelated to the fast); small strength session planned for the evening.
 
 ---
 
