@@ -9,7 +9,7 @@
 | Day | Fast | Movement |
 |---|---|---|
 | Mon Nov 9 | 23h ends 2pm, eat 2–9pm, then 24h starts 9pm | 🏃 walk-run in the afternoon, after breaking the fast |
-| Tue Nov 10 | 24h (Mon 9pm → Tue 9pm) | 🚶 easy walk only |
+| Tue Nov 10 | lunch 2–3pm, skip dinner, fast → Wed 2pm | 🚶 easy walk only |
 | Wed Nov 11 | 16:8 | 🏃 walk-run (3 min run / 2–3 min walk, 30–40 min) |
 | Thu Nov 12 | 16:8 | 💪 strength #1 + walk |
 | Fri Nov 13 | 24h dinner-to-dinner | 🚶 easy walk only (indoors — rain expected) |
@@ -18,7 +18,7 @@
 
 Coffee with milk always allowed. Eating window: 2–10pm on 16:8 days (fast 10pm–2pm).
 Rule: never two missed days in a row.
-Week 3 is the step-up week (confirmed Ram, Nov 6): 2× 24h fasts, Tue + Fri — office days, where skipping lunch is easier. One-off bridge: the extra 23h fast Sun Nov 8 3pm → Mon Nov 9 2pm, then eat Mon 2–9pm, fast again Mon 9pm → Tue 9pm (Tue 24h anchored 9pm–9pm) — Sun easy walk (not long), Mon break gently 2pm, walk-run in the afternoon after breaking.
+Week 3 is the step-up week (confirmed Ram, Nov 6): 2× 24h fasts, Tue + Fri — office days, where skipping lunch is easier. One-off bridge: the extra 23h fast Sun Nov 8 3pm → Mon Nov 9 2pm, then eat Mon 2–9pm, fast again Mon 9pm → Tue 9pm (Tue 24h anchored 9pm–9pm) — Sun easy walk (not long), Mon break gently 2pm, walk-run in the afternoon after breaking. Tue 24h reshaped (Ram, Nov 10, standing): lunch-to-lunch — eat lunch 2–3pm, skip dinner, fast until Wed 2pm; Fri stays dinner-to-dinner.
 Week 3 still sits in the flat phase — judge it on streaks, not the scale.
 
 ---
