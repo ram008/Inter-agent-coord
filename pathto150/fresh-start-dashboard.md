@@ -57,6 +57,8 @@ Fast phase runs to 170, then a slow grind 170 → 150.
 
 Milestones = the daily goals: fast completed, movement completed (weigh-in counts
 on Saturdays). Cumulative = days met out of total days elapsed since Oct 26.
+Plan adjustments count as met, not missed (Ram, Nov 10) — e.g. the Tue
+lunch-to-lunch transition day.
 
 ---
 
