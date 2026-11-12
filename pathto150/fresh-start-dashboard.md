@@ -11,14 +11,14 @@
 | Mon Nov 9 | 23h ends 2pm, eat 2–9pm, then 24h starts 9pm | 🏃 walk-run in the afternoon, after breaking the fast |
 | Tue Nov 10 | lunch 2–3pm, skip dinner, fast → Wed 2pm | 🚶 easy walk only |
 | Wed Nov 11 | 16:8 | 🏃 walk-run (3 min run / 2–3 min walk, 30–40 min) |
-| Thu Nov 12 | 16:8 | 💪 strength #1 + walk |
-| Fri Nov 13 | 24h dinner-to-dinner | 🚶 easy walk only (indoors — rain expected) |
+| Thu Nov 12 | 24h (Wed 8:30pm → Thu 8:30pm) | 🚶 easy walk only |
+| Fri Nov 13 | 24h (Thu 8:30pm → Fri 8:30pm) | 🚶 easy walk only (indoors — rain expected) |
 | Sat Nov 14 | flexible | 💪 strength #2 + ⚖️ **weigh-in** |
 | Sun Nov 15 | 18:6 | 🚶 longer walk (rain expected — indoors if needed) |
 
 Coffee with milk always allowed. Eating window: 2–10pm on 16:8 days (fast 10pm–2pm).
 Rule: never two missed days in a row.
-Week 3 is the step-up week (confirmed Ram, Nov 6): 2× 24h fasts, Tue + Fri — office days, where skipping lunch is easier. One-off bridge: the extra 23h fast Sun Nov 8 3pm → Mon Nov 9 2pm, then eat Mon 2–9pm, fast again Mon 9pm → Tue 9pm (Tue 24h anchored 9pm–9pm) — Sun easy walk (not long), Mon break gently 2pm, walk-run in the afternoon after breaking. Tue 24h reshaped (Ram, Nov 10, standing): lunch-to-lunch — eat lunch 2–3pm, skip dinner, fast until Wed 2pm; Fri stays dinner-to-dinner.
+Week 3 is the step-up week (confirmed Ram, Nov 6): 2× 24h fasts, Tue + Fri — office days, where skipping lunch is easier. One-off bridge: the extra 23h fast Sun Nov 8 3pm → Mon Nov 9 2pm, then eat Mon 2–9pm, fast again Mon 9pm → Tue 9pm (Tue 24h anchored 9pm–9pm) — Sun easy walk (not long), Mon break gently 2pm, walk-run in the afternoon after breaking. Tue 24h reshaped (Ram, Nov 10, standing): lunch-to-lunch — eat lunch 2–3pm, skip dinner, fast until Wed 2pm; Fri stays dinner-to-dinner. Extra 24h (Ram, Nov 11): Wed 8:30pm → Thu 8:30pm — Thu becomes a fast day (easy walk only); Fri 24h runs Thu 8:30pm → Fri 8:30pm. Strength #1 slides off Thu (placement TBD).
 Week 3 still sits in the flat phase — judge it on streaks, not the scale.
 
 ---
@@ -51,8 +51,8 @@ Fast phase runs to 170, then a slow grind 170 → 150.
 ## 🔥 Cumulative streaks
 
 - ⚖️ Weight change: last week -1.9 lb · cumulative -3.4 lb
-- 🍽️ Fast days met: 16 / 16 days elapsed ████████████████
-- 🏃 Move days met: 16 / 16 days elapsed ████████████████
+- 🍽️ Fast days met: 17 / 17 days elapsed █████████████████
+- 🏃 Move days met: 17 / 17 days elapsed █████████████████
 - ⚖️ Saturday weigh-ins done: 2 / 2
 
 Milestones = the daily goals: fast completed, movement completed (weigh-in counts
@@ -68,7 +68,7 @@ lunch-to-lunch transition day.
 |---|---|---|---|---|---|---|---|
 | 1 | Oct 26 – Nov 1, 2026 | 219.6 | -1.5 | -1.5 | 7/7 | 7/7 | ✓ |
 | 2 | Nov 2 – Nov 8, 2026 | 217.7 | -1.9 | -3.4 | 7/7 | 7/7 | ✓ |
-| 3 | Nov 9 – Nov 15, 2026 | | | | 2/7 | 2/7 | |
+| 3 | Nov 9 – Nov 15, 2026 | | | | 3/7 | 3/7 | |
 
 ## 📝 Day log
 
@@ -88,6 +88,7 @@ lunch-to-lunch transition day.
 - Sun Nov 8 (day 14): fasted through 2pm, ate 2–3pm (~900 kcal), 23h started 3pm (→ Mon 2pm); long walk done, 11,000 steps; fast holding strong, extended to 2pm Mon; Diwali.
 - Mon Nov 9 (day 15): 23h fast completed, broke ~2:15pm, feeling great; walk-run done (fasted, before breaking); small strength session done in the evening; 16,000 steps; ~1,450 kcal; sleep a bit rough last night (his note: may be unrelated to the fast); 24h restarted 8:30pm (→ Tue 8:30pm).
 - Tue Nov 10 (day 16): transition day — broke the Mon 8:30pm fast at lunch 2–3pm (~18h, ~900 kcal), skipped dinner, new 24h started ~3pm (→ Wed 2pm, lunch-to-lunch shape); easy walk, 10,000 steps; 24h well in progress. Adjustment day — counts as met, streak intact.
+- Wed Nov 11 (day 17): 24h lunch-to-lunch completed (Tue ~3pm → Wed 2pm); 16:8 held, dinner closed 8:30pm — extra 24h started (→ Thu 8:30pm); walk-run done, 12,000 steps; ~1,300 kcal.
 
 ---
 
