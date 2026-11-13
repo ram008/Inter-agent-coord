@@ -89,7 +89,7 @@ lunch-to-lunch transition day.
 - Mon Nov 9 (day 15): 23h fast completed, broke ~2:15pm, feeling great; walk-run done (fasted, before breaking); small strength session done in the evening; 16,000 steps; ~1,450 kcal; sleep a bit rough last night (his note: may be unrelated to the fast); 24h restarted 8:30pm (→ Tue 8:30pm).
 - Tue Nov 10 (day 16): transition day — broke the Mon 8:30pm fast at lunch 2–3pm (~18h, ~900 kcal), skipped dinner, new 24h started ~3pm (→ Wed 2pm, lunch-to-lunch shape); easy walk, 10,000 steps; 24h well in progress. Adjustment day — counts as met, streak intact.
 - Wed Nov 11 (day 17): 24h lunch-to-lunch completed (Tue ~3pm → Wed 2pm); 16:8 held, dinner closed 8:30pm — extra 24h started (→ Thu 8:30pm); walk-run done, 12,000 steps; ~1,300 kcal.
-- Thu Nov 12 (day 18): extra 24h completed (Wed 8:30pm → Thu 9:30pm, 25h); long walk done, 5 miles; dinner 9:30–10pm; Fri 24h started ~10pm (→ Fri 10pm).
+- Thu Nov 12 (day 18): extra 24h completed (Wed 8:30pm → Thu 9:30pm, 25h); long walk done, 5 miles; 14,020 steps; dinner 9:30–10pm, ~1,000 kcal, protein-rich; Fri 24h started ~10pm (→ Fri 10pm).
 
 ---
 
