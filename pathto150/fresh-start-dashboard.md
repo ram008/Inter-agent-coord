@@ -13,12 +13,13 @@
 | Wed Nov 11 | 16:8 | 🏃 walk-run (3 min run / 2–3 min walk, 30–40 min) |
 | Thu Nov 12 | 24h (Wed 8:30pm → Thu 8:30pm) | 🚶 long walk (moved from Sun) |
 | Fri Nov 13 | 24h (Thu 10pm → Fri 10pm) | 🚶 easy walk only (indoors — rain expected) |
-| Sat Nov 14 | flexible | 💪 strength #2 + ⚖️ **weigh-in** |
+| Sat Nov 14 | flexible — light protein meal ~2pm, Diwali dinner party in the evening | 💪 strength #2 (earlier in the day) + ⚖️ **weigh-in** (morning) |
 | Sun Nov 15 | 18:6 | 💪 strength #1 (long walk moved to Thu) |
 
 Coffee with milk always allowed. Eating window: 2–10pm on 16:8 days (fast 10pm–2pm).
 Rule: never two missed days in a row.
 Week 3 is the step-up week (confirmed Ram, Nov 6): 2× 24h fasts, Tue + Fri — office days, where skipping lunch is easier. One-off bridge: the extra 23h fast Sun Nov 8 3pm → Mon Nov 9 2pm, then eat Mon 2–9pm, fast again Mon 9pm → Tue 9pm (Tue 24h anchored 9pm–9pm) — Sun easy walk (not long), Mon break gently 2pm, walk-run in the afternoon after breaking. Tue 24h reshaped (Ram, Nov 10, standing): lunch-to-lunch — eat lunch 2–3pm, skip dinner, fast until Wed 2pm; Fri stays dinner-to-dinner. Extra 24h (Ram, Nov 11): Wed 8:30pm → Thu 8:30pm — Thu becomes a fast day (easy walk only); Fri 24h runs Thu 8:30pm → Fri 8:30pm. Strength #1 slides to Sun; the long walk moves to Thu. Actuals: Thu fast broke 9:30pm (25h); Fri 24h re-anchored Thu 10pm → Fri 10pm.
+Sat Nov 14 adjusted (Ram, locked Nov 13): Diwali dinner party — morning weigh-in; strength #2 earlier in the day; one light protein-anchored meal ~2pm (~500–600 kcal) so he doesn't arrive at the spread straight off Friday's 24h fast; at the party protein + veg first, fried snacks on one small plate (no grazing), sweets = 2 favourites in small portions; drinks: scotch on the rocks, max 2, with the meal and water between (Ram's pick Nov 13 — beats wine: ~100 kcal/pour, no sugar/carbs); eating closes ~10pm. Sunday stands as planned (18:6 + strength #1) — no payback fast.
 Week 3 still sits in the flat phase — judge it on streaks, not the scale.
 
 ---
@@ -30,7 +31,7 @@ Week 3 still sits in the flat phase — judge it on streaks, not the scale.
     ▲ you are here (week 3)                      🎯 Oct 8, 2027
 ```
 
-Progress to goal: ██░░░░░░░░░░░░░░░░░░ 5% — 3.4 of 71.1 lb lost
+Progress to goal: ██░░░░░░░░░░░░░░░░░░ 7% — 5.2 of 71.1 lb lost
 
 | Checkpoint | Weight | When | Status |
 |---|---|---|---|
@@ -50,10 +51,10 @@ Fast phase runs to 170, then a slow grind 170 → 150.
 
 ## 🔥 Cumulative streaks
 
-- ⚖️ Weight change: last week -1.9 lb · cumulative -3.4 lb
-- 🍽️ Fast days met: 18 / 18 days elapsed ██████████████████
-- 🏃 Move days met: 18 / 18 days elapsed ██████████████████
-- ⚖️ Saturday weigh-ins done: 2 / 2
+- ⚖️ Weight change: last week -1.8 lb · cumulative -5.2 lb
+- 🍽️ Fast days met: 21 / 21 days elapsed █████████████████████
+- 🏃 Move days met: 21 / 21 days elapsed █████████████████████
+- ⚖️ Saturday weigh-ins done: 3 / 3
 
 Milestones = the daily goals: fast completed, movement completed (weigh-in counts
 on Saturdays). Cumulative = days met out of total days elapsed since Oct 26.
@@ -68,7 +69,7 @@ lunch-to-lunch transition day.
 |---|---|---|---|---|---|---|---|
 | 1 | Oct 26 – Nov 1, 2026 | 219.6 | -1.5 | -1.5 | 7/7 | 7/7 | ✓ |
 | 2 | Nov 2 – Nov 8, 2026 | 217.7 | -1.9 | -3.4 | 7/7 | 7/7 | ✓ |
-| 3 | Nov 9 – Nov 15, 2026 | | | | 4/7 | 4/7 | |
+| 3 | Nov 9 – Nov 15, 2026 | 215.9 | -1.8 | -5.2 | 7/7 | 7/7 | ✓ |
 
 ## 📝 Day log
 
@@ -90,6 +91,9 @@ lunch-to-lunch transition day.
 - Tue Nov 10 (day 16): transition day — broke the Mon 8:30pm fast at lunch 2–3pm (~18h, ~900 kcal), skipped dinner, new 24h started ~3pm (→ Wed 2pm, lunch-to-lunch shape); easy walk, 10,000 steps; 24h well in progress. Adjustment day — counts as met, streak intact.
 - Wed Nov 11 (day 17): 24h lunch-to-lunch completed (Tue ~3pm → Wed 2pm); 16:8 held, dinner closed 8:30pm — extra 24h started (→ Thu 8:30pm); walk-run done, 12,000 steps; ~1,300 kcal.
 - Thu Nov 12 (day 18): extra 24h completed (Wed 8:30pm → Thu 9:30pm, 25h); long walk done, 5 miles; 14,020 steps; dinner 9:30–10pm, ~1,000 kcal, protein-rich; Fri 24h started ~10pm (→ Fri 10pm).
+- Fri Nov 13 (day 19): 24h fast done (Thu ~10pm → Fri evening); easy stroll done, 10,000 steps; ~1,200 kcal, protein-rich. Streak 19-for-19.
+- Sat Nov 14 (day 20): morning weigh-in 215.9 lb (-1.8 this week, -5.2 total); strength #2 done; light protein meal ~2pm; Diwali party handled to plan — protein + veg first, snacks on one small plate, two pours, eating closed ~10pm; ~2,000 kcal; 13,000 steps.
+- Sun Nov 15 (day 21): strength #1 done (steps lower); ate until 2:30pm, then an unscheduled 24h started (Diwali dinner recovery) → Mon 2:30pm.
 
 ---
 
