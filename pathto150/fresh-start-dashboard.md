@@ -93,7 +93,7 @@ lunch-to-lunch transition day.
 - Thu Nov 12 (day 18): extra 24h completed (Wed 8:30pm → Thu 9:30pm, 25h); long walk done, 5 miles; 14,020 steps; dinner 9:30–10pm, ~1,000 kcal, protein-rich; Fri 24h started ~10pm (→ Fri 10pm).
 - Fri Nov 13 (day 19): 24h fast done (Thu ~10pm → Fri evening); easy stroll done, 10,000 steps; ~1,200 kcal, protein-rich. Streak 19-for-19.
 - Sat Nov 14 (day 20): morning weigh-in 215.9 lb (-1.8 this week, -5.2 total); strength #2 done; light protein meal ~2pm; Diwali party handled to plan — protein + veg first, snacks on one small plate, two pours, eating closed ~10pm; ~2,000 kcal; 13,000 steps.
-- Sun Nov 15 (day 21): strength #1 done (steps lower); ate until 2:30pm, then an unscheduled 24h started (Diwali dinner recovery) → Mon 2:30pm.
+- Sun Nov 15 (day 21): strength #1 done (450 kcal burned); 7,500 steps; ~800 kcal consumed; ate until 2:30pm, then an unscheduled 24h started (Diwali dinner recovery) → Mon 2:30pm.
 
 ---
 
